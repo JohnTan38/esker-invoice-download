@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Global styles are defined here. In addition to pulling in the Tailwind
+ * layers, we set sensible defaults for typography and layout. These
+ * styles apply across the entire documentation site.
+ */
+
+html,
+body {
+  @apply bg-white text-gray-900;
+}
+
+a {
+  @apply text-blue-600 hover:underline;
+}
+
+code {
+  @apply font-mono text-sm text-pink-600;
+}
