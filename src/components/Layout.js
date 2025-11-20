@@ -10,7 +10,7 @@ const pages = [
   { slug: '/app-features', title: 'App Features' },
   { slug: '/automate-on-demand', title: 'Automate OnDemand' },
   { slug: '/user-reviews', title: 'User Reviews' },
-  { slug: '/video', title: 'Video Demo' },
+  { slug: '/video', title: 'Video Overview' },
 ];
 
 /**
