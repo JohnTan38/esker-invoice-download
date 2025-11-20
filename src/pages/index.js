@@ -65,9 +65,7 @@ export default function Home() {
         />
         <Card
           title="Play Video"
-          /* eslint-disable-next-line react/jsx-no-target-blank */
-          /*href="https://youtu.be/qxFhSLAmvzw"*/
-          href="/images/Intelligent_Invoice_Automation.mp4"
+          href="/video"
         />
       </div>
     </Layout>
