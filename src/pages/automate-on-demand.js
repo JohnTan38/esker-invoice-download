@@ -45,8 +45,8 @@ export default function AutomateOnDemand() {
           href="https://esker-automation-guide-git-master-johntan38s-projects.vercel.app/"
         />
         <Card
-          title="Read more docs Next.js"
-          href="https://nextjs.org/docs"
+          title="Listen Audio Summary"
+          href="https://raw.githubusercontent.com/JohnTan38/pending-payment-documentation/master/public/automated_invoice_processing_efficiency_accuracy_and_scalability.wav"
         />
       </div>
     </Layout>

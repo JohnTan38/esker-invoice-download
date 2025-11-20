@@ -33,7 +33,7 @@ export default function Home() {
         Esker Invoice Download Automation
       </h1>
       <p className="mb-6 text-lg">
-        Welcome to the Esker Pending Payment Invoice Download App!
+        Welcome to the Esker Invoice Download App!
       </p>
       <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between mb-4">
         <h2 className="text-2xl font-bold">Automated Workflow Architecture</h2>
@@ -64,10 +64,10 @@ export default function Home() {
           href="https://pending-payment-documentation-briefing.vercel.app/"
         />
         <Card
-          title="Video about this App"
+          title="Play Video"
           /* eslint-disable-next-line react/jsx-no-target-blank */
           /*href="https://youtu.be/qxFhSLAmvzw"*/
-          href="/images/Business Process Automation.mp4"
+          href="/images/Intelligent_Invoice_Automation.mp4"
         />
       </div>
     </Layout>

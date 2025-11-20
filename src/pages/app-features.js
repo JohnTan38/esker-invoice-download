@@ -31,8 +31,8 @@ export default function AppFeatures() {
           href="https://videos.esker.com/watch/NmNPjCYkkURwXVPEsBbEGQ?"
         />
         <Card
-          title="Listen Audio Summary"
-          href="https://raw.githubusercontent.com/JohnTan38/pending-payment-documentation/master/public/automated_invoice_processing_efficiency_accuracy_and_scalability.wav"
+          title="Workflow Video"
+          href="/images/Business Process Automation.mp4"
         />
       </div>
     </Layout>
